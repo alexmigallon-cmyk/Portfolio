@@ -13,3 +13,12 @@ Aquí encontrarás ejemplos prácticos que muestran mis habilidades en **Python,
 - Carpeta: [`NBA-Project`](./NBA-Project)
   
 ---
+
+### 2. 📊 Tratamiento de Datos Faltantes  
+- Limpieza y tratamiento de **valores nulos y duplicados** en un dataset real.  
+- Estrategias aplicadas: imputación, reemplazo y análisis de impacto en las variables.  
+- Ejemplo práctico con Python (pandas, numpy, seaborn).  
+- **Carpeta**: [DATOS_FALTANTES](DATOS_FALTANTES)
+
+---
+
