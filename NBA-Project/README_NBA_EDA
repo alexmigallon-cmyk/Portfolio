@@ -1,0 +1,39 @@
+ NBA Player Salaries & Performance – Exploratory Data Analysis (EDA)
+📌 Descripción
+
+Este proyecto analiza un dataset de jugadores de la NBA (2022-2023) con información sobre estadísticas de juego, salarios y equipos.
+El objetivo es explorar las relaciones entre rendimiento y salario, así como diferencias entre posiciones y equipos.
+
+🔍 Análisis Exploratorio (EDA)
+
+En el EDA se estudian los siguientes aspectos:
+
+Distribución de posiciones y equipos.
+
+Boxplots por posición para estadísticas clave:
+
+Age, FGA, FG%, 3PA, 3P%, FTA, FT%, TRB, AST, STL, BLK, TOV, PTS, TS%, BPM.
+
+Comparación por rangos salariales:
+
+mínimo, mid-level, bueno, muy bueno, max, supermax.
+
+Correlaciones entre salario y estadísticas principales.
+
+Visualizaciones por equipos (Team_1):
+
+Medias de métricas como 3PAr, REB, PTS, BLK, STL, AST.
+
+Comparación entre todos los jugadores vs. solo el top 10 en salarios por equipo.
+
+📊 Ejemplos de Insights
+
+Los Centers destacan en rebotes y tapones, mientras que los PG lideran en asistencias y robos.
+
+Los jugadores con contratos supermax lideran en puntos y volumen de tiro, aunque no necesariamente en estadísticas defensivas.
+
+Existen jugadores jóvenes con contratos rookie (max_novato) que muestran rendimiento incluso superior a jugadores en contratos máximos.
+
+Los equipos presentan grandes diferencias de perfil estadístico según qué métricas se analicen (por ejemplo, 3PAr vs. rebotes).
+
+Comparar los 10 jugadores mejor pagados de cada equipo permite ver un perfil más realista de lo que sostiene a cada franquicia.
