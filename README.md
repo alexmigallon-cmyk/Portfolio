@@ -10,14 +10,14 @@ Por último, añado los enlaces al trabajo realizado en INESCOP el cual fue real
 
 ## Proyectos Destacados
 
-### 1. 🏀 Análisis NBA - Estadísticas (Python).
+### 1. Análisis NBA - Estadísticas (Python).
 - Exploratory Data Analysis (EDA) con Python y visualización avanzada (Seaborn/Matplotlib).
 - Insights sobre la relación entre rendimiento y salario.
 - Carpeta: [`NBA-Project`](./NBA-Project)
   
 ---
 
-### 2. 📊 Tratamiento de Datos Faltantes (Python) 
+### 2. Tratamiento de Datos Faltantes (Python) 
 - Limpieza y tratamiento de **valores nulos y duplicados** en un dataset real.  
 - Estrategias aplicadas: imputación, reemplazo y análisis de impacto en las variables.  
 - Ejemplo práctico con Python (pandas, numpy, seaborn).  
@@ -25,7 +25,7 @@ Por último, añado los enlaces al trabajo realizado en INESCOP el cual fue real
 
 ---
 
-### 3. 📦 Análisis de e-commerce brasileño (SQL)
+### 3. Análisis de e-commerce brasileño (SQL)
 - Exploración de una base de datos de 11 tablas de un comercio online en Brasil.  
 - Consultas SQL desde lo básico (`JOIN`, `GROUP BY`) hasta lo avanzado (`CASE`).  
 - Obtención de KPIs clave: ingresos, ticket medio, tiempos de entrega, satisfacción y cancelaciones.  
