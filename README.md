@@ -30,5 +30,5 @@ Por último, añado los enlaces al trabajo realizado en INESCOP el cual fue real
 - Consultas SQL desde lo básico (`JOIN`, `GROUP BY`) hasta lo avanzado (`CASE`).  
 - Obtención de KPIs clave: ingresos, ticket medio, tiempos de entrega, satisfacción y cancelaciones.  
 - Insights de negocio: concentración de ventas en pocas categorías, debilidades logísticas, importancia geográfica de SP/RJ/MG. 
-- **Carpeta**: [`SQL_ECOMMERCE`](./e-commerce-Brasil)
+- **Carpeta**: [`e-commerce-Brasil`](./e-commerce-Brasil)
 
