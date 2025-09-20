@@ -22,7 +22,6 @@ Aquí encontrarás ejemplos prácticos que muestran mis habilidades en **Python,
 - **Carpeta**: [DATOS_FALTANTES](DATOS_FALTANTES)
 
 ---
----
 
 ### 3. 📦 Análisis de e-commerce brasileño (SQL)
 - Exploración de una base de datos de 11 tablas de un comercio online en Brasil.  
