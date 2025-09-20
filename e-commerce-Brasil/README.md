@@ -1,11 +1,9 @@
 # Análisis de base de datos E-commerce (Brasil)
 
 ## Introducción
-Este proyecto consiste en la exploración y análisis de una base de datos de un comercio electrónico en Brasil, compuesta por 11 tablas relacionadas con clientes, pedidos, productos, vendedores, pagos y reseñas.
+Este proyecto consiste en la exploración y análisis de una base de datos de un e-commerce en Brasil, compuesta por 11 tablas relacionadas con clientes, pedidos, productos, vendedores, pagos y reseñas.
 
-A lo largo del trabajo se ejecutan distintas consultas SQL: desde operaciones básicas con `JOIN` y `GROUP BY`, hasta análisis más avanzados con funciones de agregación, expresiones `CASE` y manejo de valores nulos con `NULLIF`.
-
-El objetivo es obtener KPIs clave y generar insights útiles para la empresa, que luego pueden servir de base para visualizaciones y dashboards en Power BI.
+A lo largo del trabajo ejecutamos distintas consultas SQL: desde operaciones básicas con `JOIN` y `GROUP BY`, hasta análisis más avanzados con funciones de agregación o expresiones `CASE`. El objetivo es obtener KPIs clave y generar insights útiles para la empresa.
 
 ## Metodología
 1. Uso de SQL para consultas directas sobre la base de datos y extracción de indicadores clave.
@@ -31,7 +29,7 @@ El objetivo es obtener KPIs clave y generar insights útiles para la empresa, qu
 - El top 7 de categorías acumula casi el 50% de la facturación total, lo que muestra una fuerte concentración.
 
 ### Evolución temporal
-- Se observa una tendencia creciente en número de pedidos hasta finales de 2017, donde se estabilizan.
+- Observamos una tendencia creciente en número de pedidos hasta finales de 2017, donde se estabilizan.
 - Lo óptimo sería complementar con gráficos de series temporales para identificar patrones estacionales o picos puntuales.
 
 ### Logística y envíos
@@ -46,7 +44,7 @@ El objetivo es obtener KPIs clave y generar insights útiles para la empresa, qu
 
 ### Reseñas de clientes
 - Las categorías con mejores puntuaciones promedio son CDs/DVDs musicales y ropa infantil.
-- Las puntuaciones más altas suelen proceder de categorías con pocos volúmenes de reseñas, lo que invita a cautela al interpretar resultados.
+- Las puntuaciones más altas suelen proceder de categorías con pocos volúmenes de reseñas, esto nos indica que debemos tener  cautela al interpretar resultados.
 - Las categorías de gran volumen de ventas muestran valoraciones entre 3 y 4, lo que indica margen de mejora en satisfacción.
 
 ### Distribución geográfica
@@ -64,5 +62,3 @@ El objetivo es obtener KPIs clave y generar insights útiles para la empresa, qu
 - La logística es un punto débil, con tiempos de entrega superiores a los estándares competitivos.
 - El peso de SP, RJ y MG indica dónde priorizar inversiones en distribución y marketing.
 - Las cancelaciones son mínimas, lo que refleja una operativa estable.
-
-Este proyecto muestra dominio de SQL para consultas analíticas y la capacidad de extraer insights de negocio, además de servir de base para un dashboard en Power BI con KPIs clave.
