@@ -42,5 +42,5 @@ Por último, añado los enlaces al trabajo realizado en INESCOP el cual fue real
   - **Estados y aeropuertos** (top aeropuertos con más retrasos y cancelaciones, mapas interactivos).  
   - **Patrones temporales** (horas punta, días críticos, puntualidad vs. retrasos).  
 - Uso de **medidas DAX, segmentadores, scatter plots, treemap, donut charts y mapas interactivos**.  
--**Carpeta**: [`Vuelos_EEUU`](./VUELOS_EEUU)
+-**Carpeta**: [`Vuelos_EEUU`](./Vuelos_EEUU)
 
