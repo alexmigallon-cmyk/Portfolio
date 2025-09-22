@@ -32,3 +32,15 @@ Por último, añado los enlaces al trabajo realizado en INESCOP el cual fue real
 - Insights de negocio: concentración de ventas en pocas categorías, debilidades logísticas, importancia geográfica de SP/RJ/MG. 
 - **Carpeta**: [`e-commerce-Brasil`](./e-commerce-Brasil)
 
+---
+
+### 4. Análisis de vuelos en EE.UU. (Power BI)
+
+- Análisis de más de **7 millones de registros de vuelos** en Estados Unidos.  
+- Creación de un dashboard en Power BI dividido en 3 páginas:  
+  - **KPIs generales y tendencias** (retrasos, cancelaciones, distribución temporal).  
+  - **Estados y aeropuertos** (top aeropuertos con más retrasos y cancelaciones, mapas interactivos).  
+  - **Patrones temporales** (horas punta, días críticos, puntualidad vs. retrasos).  
+- Uso de **medidas DAX, segmentadores, scatter plots, treemap, donut charts y mapas interactivos**.  
+-**Carpeta**: [Vuelos EEUU](VUELOS EEUU)
+
