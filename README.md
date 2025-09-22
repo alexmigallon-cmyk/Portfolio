@@ -21,7 +21,7 @@ Por último, añado los enlaces al trabajo realizado en INESCOP el cual fue real
 - Limpieza y tratamiento de **valores nulos y duplicados** en un dataset real.  
 - Estrategias aplicadas: imputación, reemplazo y análisis de impacto en las variables.  
 - Ejemplo práctico con Python (pandas, numpy, seaborn).  
-- **Carpeta**: [DATOS_FALTANTES](DATOS_FALTANTES)
+- **Carpeta**: [`DATOS_FALTANTES`](./DATOS_FALTANTES)
 
 ---
 
@@ -42,5 +42,5 @@ Por último, añado los enlaces al trabajo realizado en INESCOP el cual fue real
   - **Estados y aeropuertos** (top aeropuertos con más retrasos y cancelaciones, mapas interactivos).  
   - **Patrones temporales** (horas punta, días críticos, puntualidad vs. retrasos).  
 - Uso de **medidas DAX, segmentadores, scatter plots, treemap, donut charts y mapas interactivos**.  
--**Carpeta**: [Vuelos EEUU](./VUELOS EEUU)
+-**Carpeta**: [`Vuelos_EEUU`](./VUELOS_EEUU)
 
