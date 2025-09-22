@@ -7,6 +7,9 @@ El objetivo es explorar **retrasos, cancelaciones y patrones de vuelos** utiliza
 
 El dashboard final está dividido en **tres páginas** que permiten explorar desde una visión general hasta patrones temporales y análisis específicos por estados y aeropuertos.
 
+El archivo .pbix está en el siguiente enlace: https://drive.google.com/file/d/1Qx3VpnkJ5Nxj1Rkx-Ax47demXh5BuiED/view?usp=sharing.
+
+
 ---
 
 ## Estructura del Dashboard
