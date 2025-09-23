@@ -3,9 +3,7 @@
 Bienvenido/a a mi portfolio de proyectos de **Data Science, Machine Learning y Business Analytics**.  
 Aquí encontrarás ejemplos prácticos que muestran mis habilidades en **Python, SQL y Power BI**. Llevo tiempo practicando con ellos, pero no me había planteado crear un "portfolio" hasta hace poco. Ahora mismo estoy trabajando en dejar limpio y poder subir pronto la aplicación de Machine Learning que hice tras el análisis exploratorio al conjunto de datos de la NBA. 
 
-Por último, añado los enlaces al trabajo realizado en INESCOP el cual fue realizado con R y se expuso en "The XXXVIII IULTCS Congress" en Lyon: https://cdn.appcraft.events/events/FdXLwRPTjyE4/files/public/qTaKJ2sJ9K45lX.pdf y https://cdn.appcraft.events/events/FdXLwRPTjyE4/files/public/kJMY7krjJTrWd9.pdf. 
-
-Añado el enlace de la página del congreso: https://congressiultcslyon2025.fr/en.
+Por último, añado los enlaces al trabajo realizado en INESCOP el cual fue realizado con R y se expuso en "The XXXVIII IULTCS Congress" en Lyon: https://cdn.appcraft.events/events/FdXLwRPTjyE4/files/public/qTaKJ2sJ9K45lX.pdf y https://cdn.appcraft.events/events/FdXLwRPTjyE4/files/public/kJMY7krjJTrWd9.pdf. Añado el enlace de la página del congreso: https://congressiultcslyon2025.fr/en.
 
 
 ---
