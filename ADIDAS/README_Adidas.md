@@ -56,14 +56,7 @@ de márgenes en periodos de alto volumen.
 
 Entrenamos varios algoritmos supervisados para predecir **unidades
 vendidas** a partir de variables independientes no
-derivadas de la venta:
-
-  Modelo                     RMSE ↓      MAE ↓       R² ↑
-  -------------------------- ----------- ----------- ----------
-  Linear                     170.24      124.27      0.39
-  Decision Tree              129.17      73.54       0.65
-  Random Forest              101.91      64.00       0.78
-  **XGBoost (Optimizado)**   **89.64**   **57.63**   **0.83**
+derivadas de la venta.
 
 El modelo **XGBoost** obtuvo el mejor rendimiento, explicando el **83 %
 de la variabilidad** y alcanzando un error relativo del **5 %**,
@@ -82,19 +75,19 @@ Las variables más influyentes fueron:
 ## Predicción y Optimización
 
 Usando el modelo XGBoost, realizamos una predicción del precio esperado
-para *Men's Street Footwear* en el siguiente mes (** 45.29 €**).\
+para *Men's Street Footwear* en el siguiente mes (** 45.29 €**).
 
 ------------------------------------------------------------------------
 
 ##  Conclusiones
 
 -   El análisis confirma que **Adidas basa su rentabilidad en volumen**,
-    más que en precios altos, con clara elasticidad precio-demanda.\
+    más que en precios altos, con clara elasticidad precio-demanda.
 -   El **canal online** emerge como el más eficiente y con mejor margen
-    operativo.\
+    operativo.
 -   Los modelos de ML, especialmente **XGBoost**, demostraron ser una
     herramienta sólida para **predecir ventas y simular escenarios de
-    pricing**.\
+    pricing**.
 -   La **optimización de precios** basada en aprendizaje automático
     ofrece un potencial real para **maximizar beneficios sin comprometer
     demanda**.
