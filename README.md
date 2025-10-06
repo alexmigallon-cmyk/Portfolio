@@ -13,13 +13,9 @@ Además añado los enlaces al trabajo realizado en INESCOP el cual fue realizado
 
 ### 1. Análisis de Ventas y Optimización de Precios — Adidas USA (Python + ML+ Optimización)
 -Este es mi mejor proyecto hasta la fecha, por eso lo coloco el primero
-
 -Proyecto completo de Análisis Exploratorio, Machine Learning y Optimización de Precios. 
-
 -Desarrollé un modelo predictivo (XGBoost) para estimar unidades vendidas y lo integré en un proceso de optimización matemática para calcular el precio óptimo de venta que maximiza el beneficio esperado.
-
 -Además incluye análisis descriptivo, comparativa entre modelos (Lineal, Árbol, Random Forest y XGBoost), visualizaciones y simulación de escenarios de pricing por producto y canal.
-
 - Carpeta: [`ADIDAS`](./ADIDAS)
 
 
