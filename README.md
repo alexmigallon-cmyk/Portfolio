@@ -4,7 +4,7 @@ Bienvenido/a a mi portfolio de proyectos en Data Science, Machine Learning y Bus
 
 Mi enfoque está en convertir los datos en decisiones, buscando siempre unir el rigor analítico con el valor empresarial. Llevo tiempo practicando con diferentes datasets y tecnologías, pero recientemente he decidido estructurar y publicar mis proyectos de forma profesional.
 
-Además, durante mi estancia en INESCOP, realicé un trabajo de análisis de datos con R, que fue presentado en el congreso internacional “The XXXVIII IULTCS Congress” (Lyon, 2025) y me gustaría dejarlo aquí presente también. El estudio formó parte de una investigación científica sobre la reproducibilidad de un experimento:
+Además, durante mi estancia en **INESCOP**, realicé un trabajo de análisis de datos con R, que fue presentado en el **congreso internacional “The XXXVIII IULTCS Congress” (Lyon, 2025)** y me gustaría dejarlo aquí presente también. El estudio formó parte de una investigación científica sobre la reproducibilidad de un experimento:
 -  [Artículo](https://cdn.appcraft.events/events/FdXLwRPTjyE4/files/public/qTaKJ2sJ9K45lX.pdf)  
 -  [Presentación](https://cdn.appcraft.events/events/FdXLwRPTjyE4/files/public/kJMY7krjJTrWd9.pdf)  
 -  [Web oficial del congreso](https://congressiultcslyon2025.fr/en)
