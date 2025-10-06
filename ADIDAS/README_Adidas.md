@@ -1,26 +1,24 @@
-# 🏷️ Análisis de Ventas y Optimización de Precios --- Adidas USA
+# Análisis de Ventas y Optimización de Precios - Adidas USA
 
-## 📘 Descripción general
+## Descripción general
 
-Este proyecto analiza el rendimiento de las ventas de **Adidas en
+En este proyecto analizamos el rendimiento de las ventas de **Adidas en
 Estados Unidos** durante los años **2020 y 2021**, utilizando un
 conjunto de datos reales con **9.648 registros y 13 variables**. El
-objetivo principal fue comprender las dinámicas comerciales de la marca
+objetivo principal era comprender las dinámicas comerciales de la marca
 y desarrollar modelos predictivos y de optimización de precios para
 mejorar la toma de decisiones.
 
-El trabajo se divide en tres grandes etapas: 1. **Análisis exploratorio
-de datos (EDA)**: comprensión de las tendencias de ventas, márgenes y
+El trabajo se divide en tres grandes etapas:\
+1. **Análisis exploratorio de datos (EDA)**: comprensión de las tendencias de ventas, márgenes y
 comportamiento por región, canal, producto y retailer.\
-2. **Modelado predictivo con Machine Learning**: predicción de unidades
-vendidas utilizando modelos como regresión lineal, árboles de decisión,
+2. **Modelado predictivo con Machine Learning**: predicción de unidades vendidas utilizando modelos como regresión lineal, árboles de decisión,
 Random Forest y XGBoost.\
-3. **Optimización de precios**: estimación del precio que maximiza el
-beneficio esperado, integrando el modelo de demanda entrenado.
+3. **Optimización de precios**: estimación del precio que maximiza el beneficio esperado, integrando el modelo de demanda entrenado.
 
 ------------------------------------------------------------------------
 
-## 🧩 Dataset
+## Dataset
 
 **Archivo:** `Adidas US Sales Datasets.xlsx`\
 **Tamaño:** 9.648 registros × 13 columnas\
@@ -33,7 +31,7 @@ de comportamiento tras la pandemia y la expansión del canal online.
 
 ------------------------------------------------------------------------
 
-## 📊 Análisis Exploratorio (EDA)
+## Análisis Exploratorio (EDA)
 
 -   **Regiones y ciudades**: las zonas *West* y *Northeast* lideran las
     ventas totales, mientras que *Southeast* presenta precios más altos
@@ -54,10 +52,10 @@ de márgenes en periodos de alto volumen.
 
 ------------------------------------------------------------------------
 
-## 🤖 Modelos de Machine Learning
+## Modelos de Machine Learning
 
-Se entrenaron varios algoritmos supervisados para predecir **unidades
-vendidas (Units Sold)** a partir de variables independientes no
+Entrenamos varios algoritmos supervisados para predecir **unidades
+vendidas** a partir de variables independientes no
 derivadas de la venta:
 
   Modelo                     RMSE ↓      MAE ↓       R² ↑
@@ -72,7 +70,8 @@ de la variabilidad** y alcanzando un error relativo del **5 %**,
 mostrando gran capacidad para capturar relaciones no lineales entre
 precio, canal, región y producto.
 
-Las variables más influyentes fueron: 1. **Price per Unit**\
+Las variables más influyentes fueron: \
+1. **Price per Unit**\
 2. **Month (estacionalidad)**\
 3. **Sales Method (Online)**\
 4. **Región (South, Southeast, West)**\
@@ -80,23 +79,14 @@ Las variables más influyentes fueron: 1. **Price per Unit**\
 
 ------------------------------------------------------------------------
 
-## 💡 Predicción y Optimización
+## Predicción y Optimización
 
-Usando el modelo XGBoost, se realizó una predicción del precio esperado
-para *Men's Street Footwear* en el siguiente mes (**≈ 45.3 €**).\
-Posteriormente, se utilizó el mismo modelo como **función de demanda**
-dentro de un proceso de optimización, maximizando el beneficio esperado
-según:
-
-\[(Beneficio) = (Precio - Coste) × Demanda\_{predicha}\]
-
-Esto permitió estimar el **precio óptimo de venta** bajo condiciones
-promedio y observar cómo variaba el beneficio esperado ante distintos
-precios.
+Usando el modelo XGBoost, realizamos una predicción del precio esperado
+para *Men's Street Footwear* en el siguiente mes (** 45.29 €**).\
 
 ------------------------------------------------------------------------
 
-## 🧠 Conclusiones
+##  Conclusiones
 
 -   El análisis confirma que **Adidas basa su rentabilidad en volumen**,
     más que en precios altos, con clara elasticidad precio-demanda.\
@@ -111,7 +101,7 @@ precios.
 
 ------------------------------------------------------------------------
 
-## ⚙️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 -   **Python** (Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-learn,
     XGBoost)
