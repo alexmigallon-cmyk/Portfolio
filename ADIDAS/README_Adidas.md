@@ -9,11 +9,11 @@ objetivo principal era comprender las dinámicas comerciales de la marca
 y desarrollar modelos predictivos y de optimización de precios para
 mejorar la toma de decisiones.
 
-El trabajo se divide en tres grandes etapas:\
+El trabajo se divide en tres grandes etapas:
 1. **Análisis exploratorio de datos (EDA)**: comprensión de las tendencias de ventas, márgenes y
-comportamiento por región, canal, producto y retailer.\
+comportamiento por región, canal, producto y retailer.
 2. **Modelado predictivo con Machine Learning**: predicción de unidades vendidas utilizando modelos como regresión lineal, árboles de decisión,
-Random Forest y XGBoost.\
+Random Forest y XGBoost.
 3. **Optimización de precios**: estimación del precio que maximiza el beneficio esperado, integrando el modelo de demanda entrenado.
 
 ------------------------------------------------------------------------
