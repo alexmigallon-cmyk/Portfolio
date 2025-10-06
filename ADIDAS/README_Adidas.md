@@ -35,13 +35,13 @@ de comportamiento tras la pandemia y la expansión del canal online.
 
 -   **Regiones y ciudades**: las zonas *West* y *Northeast* lideran las
     ventas totales, mientras que *Southeast* presenta precios más altos
-    pero menor volumen.\
+    pero menor volumen.
 -   **Canales de venta**: las tiendas físicas dominan el volumen, pero
-    el canal *Online* muestra mayor rentabilidad y crecimiento en 2021.\
+    el canal *Online* muestra mayor rentabilidad y crecimiento en 2021.
 -   **Retailers**: *West Gear* y *Foot Locker* concentran las ventas,
-    aunque *Sports Direct* logra mejores márgenes.\
+    aunque *Sports Direct* logra mejores márgenes.
 -   **Productos**: *Men's Street Footwear* es el producto estrella,
-    combinando alto volumen y margen operativo.\
+    combinando alto volumen y margen operativo.
 -   **Temporalidad**: fuerte repunte de ventas a partir de 2021,
     coincidiendo con la recuperación pospandemia y el auge del comercio
     digital.
@@ -70,11 +70,11 @@ de la variabilidad** y alcanzando un error relativo del **5 %**,
 mostrando gran capacidad para capturar relaciones no lineales entre
 precio, canal, región y producto.
 
-Las variables más influyentes fueron: \
-1. **Price per Unit**\
-2. **Month (estacionalidad)**\
-3. **Sales Method (Online)**\
-4. **Región (South, Southeast, West)**\
+Las variables más influyentes fueron: 
+1. **Price per Unit**
+2. **Month (estacionalidad)**
+3. **Sales Method (Online)**
+4. **Región (South, Southeast, West)**
 5. **Producto Men's Street Footwear**
 
 ------------------------------------------------------------------------
