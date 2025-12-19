@@ -66,5 +66,5 @@ Además, durante mi estancia en **INESCOP**, realicé un trabajo de análisis de
 - Incluye:
   - Modelado de datos a partir de múltiples fuentes.
   - Definición de KPIs operativos y diseño de dashboards en Power BI para evaluar eficiencia, tiempos de reacción y rendimiento por proveedor, campaña y franja horaria.
-- Este es mi proyecto más reciente y refleja una evolución clara en mi trabajo con Power BI, especialmente en el tratamiento de datos, el modelado, las transformaciones, las uniones de tablas y la creación de columnas y medidas.
+- Este es mi **proyecto más reciente** y refleja una **evolución** clara en mi trabajo con Power BI, especialmente en el tratamiento de datos, el modelado, las transformaciones, las uniones de tablas y la creación de columnas y medidas.
 - **Carpeta**: 
