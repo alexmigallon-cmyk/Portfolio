@@ -58,3 +58,12 @@ Además, durante mi estancia en **INESCOP**, realicé un trabajo de análisis de
 - Uso de **medidas DAX, segmentadores, scatter plots, treemap, donut charts y mapas interactivos**.  
 - **Carpeta**: [`Vuelos_EEUU`](./Vuelos_EEUU)
 
+---
+
+### 6. Análisis Operativo de Leads y Contactabilidad (Power BI)
+
+- Proyecto de Business Intelligence orientado al análisis del proceso de captación y contacto de leads en un entorno de call center.
+- Incluye:
+  - Modelado de datos a partir de múltiples fuentes.
+  - Definición de KPIs operativos y diseño de dashboards en Power BI para evaluar eficiencia, tiempos de reacción y rendimiento por proveedor, campaña y franja horaria.
+- **Carpeta**: 
