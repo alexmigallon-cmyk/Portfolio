@@ -156,9 +156,9 @@ Este proyecto sienta además las bases para una **extensión analítica futura**
 ## Contenido de la carpeta
 
 - `CALL_CENTER_DATOS` → Dataset en Excel utilizado en el proyecto (Las diferentes tablas están en páginas diferentes del mismo archivo)
-- `PowerBI.pbix` → Archivo Power BI con el modelo y dashboards  
-- `dashboards.pdf` → Exportación estática de los dashboards  
-- `README.md` → Descripción del proyecto  
+- `Call_Center_BI.pbix` → Archivo Power BI con el modelo y dashboards  
+- `Call_Center_BI_Dashboards.pdf` → Exportación estática de los dashboards  
+- `README_CALL_CENTER.md` → Descripción del proyecto  
 
 ---
 
