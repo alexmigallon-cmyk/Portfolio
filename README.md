@@ -14,8 +14,6 @@ Además, durante mi estancia en **INESCOP**, realicé un trabajo de análisis de
 
 ## Proyectos Destacados
 
----
-
 ### 1. Análisis Operativo de Leads y Contactabilidad (Power BI)
 
 - Proyecto de Business Intelligence orientado al análisis del proceso de captación y contacto de leads en un entorno de call center.
